@@ -6,12 +6,12 @@ Two indicators were plotted.
  * Estimated number of annual AIDS related deaths
  * Estimated number of people living with HIV
 
-### 1\. **Estimated number of annual AIDS related deaths**
-![image](https://drive.google.com/uc?export=view&id=1-2r2rSFzMxbBTx1SOtD3TWgWZbAX6PZr)
+#### 1\. **Estimated number of annual AIDS related deaths**
+<img src="https://drive.google.com/uc?export=view&id=1-2r2rSFzMxbBTx1SOtD3TWgWZbAX6PZr" width="500" />
 
 Prior to 2013, women have a higher estimated number of annual AIDS related deaths than men. However, since 2013, it can be seen that both groups present similar figures, with a reduction in the number of deaths for both groups, after having reached a peak between 2007 and 2008. 
 
-### 2\. **Estimated number of people living with HIV**
-![image](https://drive.google.com/uc?export=view&id=1-4vfXmeRKLkU52j85S19I9mbmptvb3bf)
+#### 2\. **Estimated number of people living with HIV**
+<img src="https://drive.google.com/uc?export=view&id=1-4vfXmeRKLkU52j85S19I9mbmptvb3bf" width="500" />
 
 The graph suggests that the estimated number of people living with HIV has increased for both women and men. While women consistently present a higher number of cases over time, men present a higher growth rate in recent years.
